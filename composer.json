@@ -1,0 +1,16 @@
+{
+    "name": "sasaya/helloworld",
+    "description": "Hello World",
+    "authors": [
+        {
+            "name": "Sasaya",
+            "email": "sasaya@bamboocat.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sasaya\\HelloWorld\\": "src/app"
+        }
+    }
+}
